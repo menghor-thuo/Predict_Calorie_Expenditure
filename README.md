@@ -1,5 +1,5 @@
 # Predict_Calorie_Expenditure
-
+![This is an alt text.](calorie_burnt.jpeg)
 # Overview
 The primary objective of this project is to estimate the number of calories burned during exercise sessions. We utilize advanced machine learning techniques to construct models that precisely predict calorie expenditure based on diverse user features. Moreover, we use dataset from [kaggle competition](https://www.kaggle.com/competitions/playground-series-s5e5/overview).
 
@@ -23,4 +23,4 @@ After downloading and saving the streamlit file (predict_calorie.py) into a cert
 streamlit run predict_calorie.py
 ```
 # Conclusion
-This project highlights the effective utilization of machine learning models in predicting calories burned during work out.
+This project highlights the effective utilization of machine learning models in predicting calories burned during work out. 
